@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working in the area of Robotics, specially in the domain of Mobile Robots, UAVs, Autonomous Navigation, SLAM, Motion Planning, Computer Vision.
-- 🌱 I’m currently using the Robot Operating System (ROS 1 & 2) to design the software architecture of my Robotic Systems.
-- ⚡ I have worked with TIAGO, Universal Robot and TurtleBots.
-- 🐍 I am profecient in Programming languages such as Python, C, C++ and MATLAB.
+- 🔭 Currently working in the area of Robotics, specially in the domain of Mobile Robots, UAVs, Autonomous Navigation, SLAM, Motion Planning, Computer Vision.
+- 🌱 Currently using the Robot Operating System (ROS 1 & 2) to design the software architecture of my Robotic Systems.
+- ⚡ Wworked with TIAGO, Universal Robot and TurtleBots.
+- 🐍 Profecient in Programming languages such as Python, C, C++ and MATLAB.
 - 📫 How to reach me: Email: awaistahir29@gmail.com
 
 
